@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @alwanfa
+- 👋 Hi, I’m alwanfa
 - 👀 I’m interested in web development, machine leaarning, data science.
 - 🌱 I’m currently learning web development and data science
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me is from my instagram 
+- 📫 How to reach me is from my instagram @alwanfa15
 
 <!---
 alwanfa/alwanfa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
