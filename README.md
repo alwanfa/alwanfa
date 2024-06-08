@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me is from my linkedin https://www.linkedin.com/in/alwanfa/
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwanfa)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwanfa)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <!---
