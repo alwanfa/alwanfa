@@ -1,6 +1,6 @@
 - 👋 Hi, I’m alwanfa
-- 👀 I’m interested in web development, machine leaarning, data science.
-- 🌱 I’m currently learning web development and data science
+- 👀 I’m interested in Web Development, Artificial Intelligent, Data.
+- 🌱 I’m currently learning Artificial Intelligent
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me is from my linkedin https://www.linkedin.com/in/alwanfa/
 
