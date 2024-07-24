@@ -9,7 +9,7 @@
 
 
 ![Codewars](https://github.r2v.ch/codewars?user=alwanfa&name=true&top_languages=true&stroke=%23b362ff&theme=dracula)
-
+![](https://leetcard.jacoblin.cool/alwanfa?ext=activity)
 <!---
 alwanfa/alwanfa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
