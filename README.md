@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me is from my linkedin https://www.linkedin.com/in/alwanfa/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwanfa&show_icons=true&theme=purple_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=purple_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwanfa&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
 
 
-![Codewars](https://github.r2v.ch/codewars?user=USERNAME&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+![Codewars](https://github.r2v.ch/codewars?user=alwanfa&name=true&top_languages=true&stroke=%23b362ff&theme=dracula)
 
 <!---
 alwanfa/alwanfa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
