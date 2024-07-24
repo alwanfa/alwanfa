@@ -8,7 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
 
 
-![Codewars](https://github.r2v.ch/codewars?user=alwanfa&top_languages=true)
+![Codewars](https://github.r2v.ch/codewars?user=USERNAME&name=true&top_languages=true&stroke=%23b362ff&theme=dracula)
 
 <!---
 alwanfa/alwanfa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
